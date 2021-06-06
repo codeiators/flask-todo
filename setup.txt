@@ -1,0 +1,9 @@
+#1.pip install virtualenv
+#2. mkdir flasktodo
+#3. cd flasktodo
+#4. virtualenv venv
+#5.source venv/bin/activate
+#6.pip install flask flask-sqlalchemy
+#7.pip install pymysql
+#8.pip install flask-marshmallow marshmallow
+#9.pip install marshmallow_sqlalchemy
